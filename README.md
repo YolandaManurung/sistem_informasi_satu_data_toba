@@ -1,3 +1,8 @@
+Dinas Komunikasi dan Informatika Kabupaten Toba adalah Dinas yang menyelenggarakan urusan pemerintahan bidang Komunikasi dan Informatika. Komunikasi adalah suatu proses pertukaran dan/atau interaksi pesan-pesan antara pemerintah dan masyarakat, agar tercipta interaksi positif dengan maksud pemberdayaan daya saing dan proses masyarakat. Informasi adalah produk kegiatan dari proses penghimpunan, pengolahan dan penyampaian data. 
+Bidang Statistik merupakan bidang dimana Mahasiswa Kerja Praktik melakukan pengembangan sistem. Berdasarkan fungsinya, bidang statistik menyelenggarakan fungsi penyusunan bahan rencana strategis, rencana kerja dan anggaran serta dokumen pelaksanaan anggaran Bidang Statistik. Selain itu, Bidang Statistik juga bertugas mengkoordinasikan statistik sektoral skala Kabupaten. Maka dari itu, Bidang Statistik menganggap penting adanya sistem yang terkomputerisasi yang mampu mengelola data statistik menjadi sebuah informasi untuk membantu proses pengambilan keputusan. 
+Hasil yang diperoleh dari pembangunan sistem informasi ini adalah Pengembangan Sistem Informasi Pusat Statistik Kominfo Toba Berbasis Web Menggunakan Framework Laravel. Hasil dari pengerjaan proyek ini kemudian didokumentasikan oleh mahasiswa Kerja Praktik. Pendokumentasian tersebut berisi bentuk akhir dari sistem informasi, desain fungsi yang digunakan dan laporan terhadap pengerjaan proyek selama pelaksanaan Kerja Praktik.
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
